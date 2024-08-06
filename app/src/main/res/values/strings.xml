@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimeCalc</string>
+    <string name="title">Калькулятор времени</string>
+</resources>
